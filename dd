@@ -7,7 +7,7 @@
       "interstitial": "ca-app-pub-3940256099942544/1033173712"
     },
     "FAN": {
-      "activated": true,
+      "activated": false,
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
@@ -17,9 +17,9 @@
       "app_key": "85460dcd"
     },
     "Yandex": {
-      "banner": "R-M-DEMO-320x50",
-      "native": "R-M-DEMO-native-i",
-      "interstitial": "R-M-DEMO-240x400-context"
+      "banner": "R-M-1385890-3",
+      "native": "R-M-1385890-1",
+      "interstitial": "R-M-1385890-2"
     }
   },
   "Config": {
